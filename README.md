@@ -1,3 +1,3 @@
 # keepassdroid
-Founded to request feature enhancements
-to Keepassdroid.
+Founded to suggest feature enhancements
+to KeePassDroid.
